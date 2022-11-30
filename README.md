@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samiromer3
+- 👋 Hi, I’m samir omer mohammed ibrahim
 - 👀 I’m interested in coding i do web in the side
 - 🌱 I’m currently learning ALX and A.I.
 - 💞️ I’m looking to collaborate on all people that are willing to grow
